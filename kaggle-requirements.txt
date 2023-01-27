@@ -13,6 +13,7 @@ brotli-bin=1.0.9=hca72f7f_7
 brotlipy=0.7.0=py310h90acd4f_1005
 bzip2=1.0.8=h1de35cc_0
 ca-certificates=2022.12.7=h033912b_0
+category_encoders=2.6.0=pyhd8ed1ab_0
 certifi=2022.12.7=pyhd8ed1ab_0
 cffi=1.15.1=py310ha78151a_3
 charset-normalizer=2.1.1=pyhd8ed1ab_0
